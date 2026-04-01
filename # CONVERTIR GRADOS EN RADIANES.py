@@ -7,7 +7,6 @@ def gramos_mol():
     
     print(f"Estos son los gramos dados: {gramos_dados}, estos son los gramos de la sustancia en un mol: {gramos_sustancia}, y estos son los moles de la sustancia, {mol}")
 
-# ¡AQUÍ ESTÁ EL CAMBIO! 
-# Esta línea va sin espacios al principio.
+
 gramos_mol()
 
